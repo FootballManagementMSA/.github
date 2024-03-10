@@ -45,8 +45,7 @@
 
 #### 1) 회원 정보 관련
 ##### 회원가입
-<img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/932cf11e-ce68-45a0-9335-c39725157314"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/c134eaa2-ea4a-49cb-b077-abeab35c8b68"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/438555ac-1e83-4cb3-850c-eee46e71ba4b"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/0f02d140-c1a9-4f91-88a4-c5989aa4462b"> <br>
-
+<img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/932cf11e-ce68-45a0-9335-c39725157314"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/c134eaa2-ea4a-49cb-b077-abeab35c8b68"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/438555ac-1e83-4cb3-850c-eee46e71ba4b">
 ##### 마이페이지
 <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/519393fb-dfdb-4c4f-97c9-a2573f1cc3ea"> <img width="209" height="400" alt="image" src="https://github.com/FootballManagementMSA/.github/assets/103410386/1384a560-f193-4feb-871b-47831ac2bbe2">
 <br>
